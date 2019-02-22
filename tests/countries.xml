@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COUNTRIES>
+    <COUNTRY>
+        <NAME>SPAIN</NAME>
+        <CAPITAL>MADRID</CAPITAL>
+    </COUNTRY>
+    <COUNTRY>
+        <NAME>GERMANY</NAME>
+        <CAPITAL>BERLIN</CAPITAL>
+    </COUNTRY>
+    <COUNTRY>
+        <NAME>FRANCE</NAME>
+        <CAPITAL>PARIS</CAPITAL>
+    </COUNTRY>
+    <COUNTRY>
+        <NAME>ITALY</NAME>
+        <CAPITAL>ROMA</CAPITAL>
+    </COUNTRY>
+</COUNTRIES>
