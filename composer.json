@@ -2,6 +2,8 @@
     "name": "alvaro/xmltoarray",
     "description": "Easy way to convert Xml into Array.",
     "keywords": ["xml", "array", "psr-4", "php7", "connection", "xml-to-array", "xmltoarray"],
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alvaro Guijarro",
@@ -11,12 +13,13 @@
     "require": {
         "php": ">=7.0.10"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
     "autoload": {
         "psr-4": {
             "Alvaro\\Xmltoarray\\": "src"
         }
     },
-    "require-dev": {
-        "phpunit/phpunit": "^7"
-    }
+    "minimum-stability": "beta",
 }
