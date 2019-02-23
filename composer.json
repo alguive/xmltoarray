@@ -1,8 +1,9 @@
 {
     "name": "alvaro/xmltoarray",
+    "type": "library",
     "description": "Easy way to convert Xml into Array.",
     "keywords": ["xml", "array", "psr-4", "php7", "connection", "xml-to-array", "xmltoarray"],
-    "type": "library",
+    "homepage": "http://www.alvaroguijarro.com",
     "license": "MIT",
     "authors": [
         {
@@ -21,5 +22,10 @@
             "Alvaro\\Xmltoarray\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
 }
